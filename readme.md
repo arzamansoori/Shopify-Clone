@@ -4,5 +4,5 @@ Hi, I am *Arza Mansoori*.<br>
 *This Shopify clone made using TAILWIND CSS is a part of ***Full Stack Javascript*** course by iNeuron.*
 
 
-[*LiveLink (Netlify)*](https:/shopifyclonetailwindcss.netlify.app/ "Shopify Clone")
+[*LiveLink (Netlify)*](https://shopifyclonetailwind1.netlify.app/ "Shopify Clone")
 
